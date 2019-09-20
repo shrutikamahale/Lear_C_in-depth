@@ -1,3 +1,5 @@
+////program to print sum of digits of any number using for loop
+
 #include<stdio.h>
 int main()
 {
