@@ -1,4 +1,4 @@
-// write a program to convert binary to dechimal
+// write a program to convert binary to decimal
 #include<stdio.h>
 int main()
 {
