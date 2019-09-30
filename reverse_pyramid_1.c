@@ -1,4 +1,4 @@
-//wap to print pyramid like 
+//write a program to print pyramid like 
 //*  *  *  *  *
 //*  *  *  *
 //*  *  *
