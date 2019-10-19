@@ -7,6 +7,7 @@ int main()
   int n;
   int i;
   n = sizeof(arr)/sizeof(arr[0]);
+
   printf("Enter elements: ");
   for(i = 0; i < n; i++)
   {
